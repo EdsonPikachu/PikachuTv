@@ -36,7 +36,7 @@
 <!-- end custom head snippets -->
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
+</script>
 <div class="vlog-section ">
 <div class="container">
 <div class="vlog-content vlog-single-content">
