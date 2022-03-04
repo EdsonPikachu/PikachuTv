@@ -1,5 +1,4 @@
 <html lang="pt-BR">
-  <head>
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
