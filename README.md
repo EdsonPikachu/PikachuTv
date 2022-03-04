@@ -48,7 +48,6 @@
 <blockquote class="wp-block-quote"><p><strong><em>Assistir</em> TV <em>Globo ao vivo online</em> e <em>gratis</em></strong>. O melhor site para voce ver as programacoes de <strong>TV <em>Online Globo ao vivo</em></strong> sem travar no <a href="https://bit.ly/pikachuweb/"><i>Pikachu Entretenimentos</i></a>!</p></blockquote>
 </div>
 <div class="vlog-ad vlog-ad-below-single"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9177209003201928" crossorigin="anonymous"></script>
-  </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
