@@ -1,4 +1,4 @@
-<html lang="pt-BR">
+[<html lang="pt-BR">
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
@@ -83,3 +83,4 @@
       </footer>
   </body>
 
+](https://streamtape.com/v/Y7a41lOXgduvlGY/Epis%C3%B3dio-01-Piloto-Pikachu.mp4)
